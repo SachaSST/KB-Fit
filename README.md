@@ -22,5 +22,16 @@ Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de sal
 
 Suivez ces étapes pour installer et exécuter l'application localement :
 
-1. Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :
+1. Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :git clone https://github.com/votre-utilisateur/kremlin-biceps.git
+
+2. Assurez-vous d'avoir [Node.js](https://nodejs.org) installé. npm install
+
+3. Accédez au répertoire du projet via la ligne de commande et exécutez la commande suivante pour installer les dépendances : npm install
+
+4. Configurez les variables d'environnement selon vos besoins.
+
+5. Exécutez la commande suivante pour démarrer l'application : npm start
+
+6. Accédez à l'application en ouvrant votre navigateur et en visitant l'URL suivante : http://localhost:3000
+
 
