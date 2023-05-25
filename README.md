@@ -1,12 +1,16 @@
 # Kremlin Biceps - Application de salle de sport
 
-Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de salle de sport pour les passionnés de fitness et de musculation. Cette application vise à aider les utilisateurs à suivre leur progression, à accéder à des programmes d'entraînement personnalisés, à trouver des exercices adaptés à leurs objectifs et à interagir avec une communauté de passionnés.
+Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de salle de sport pour les passionnés de fitness et de musculation. Cette application vise à aider les utilisateurs à atteindre leurs objectifs de remise en forme, à suivre leur progression, à accéder à des programmes d'entraînement personnalisés, à gérer leur nutrition, à interagir avec des coachs et à rejoindre une communauté de passionnés.
 
 ## Fonctionnalités principales
 
-- **Suivi de progression**: Les utilisateurs peuvent enregistrer leurs séances d'entraînement, suivre leur progression et visualiser leurs statistiques, y compris les gains en force, la perte de poids, etc.
+- **Suivi de progression**: Les utilisateurs peuvent enregistrer leurs séances d'entraînement, suivre leur progression physique, leurs gains en force, leurs performances et visualiser leurs statistiques détaillées. Ils peuvent enregistrer leurs mesures corporelles, leur poids, leur pourcentage de graisse corporelle, etc.
 
-- **Programmes d'entraînement personnalisés**: L'application propose une variété de programmes d'entraînement en fonction des objectifs de chaque utilisateur, qu'il s'agisse de la construction musculaire, de la perte de poids ou de l'amélioration générale de la condition physique.
+- **Nutrition**: L'application propose des fonctionnalités de suivi nutritionnel, permettant aux utilisateurs de suivre leur apport calorique, leur consommation de macronutriments (protéines, glucides, lipides) et de consulter des recommandations diététiques personnalisées en fonction de leurs objectifs.
+
+- **Entraînements**: L'application offre une variété de programmes d'entraînement personnalisés adaptés aux objectifs individuels des utilisateurs. Ces programmes peuvent inclure des séances d'entraînement spécifiques pour différents groupes musculaires, des routines cardiovasculaires, des séances de HIIT (Entraînement par Intervalles à Haute Intensité) et des séances de récupération.
+
+- **Coachs**: Les utilisateurs ont accès à des informations et des conseils d'experts grâce à des coachs certifiés présents dans l'application. Ils peuvent obtenir des recommandations sur les programmes d'entraînement, la nutrition, les techniques d'exercice, les routines de récupération, etc. Les coachs peuvent également fournir des rétroactions personnalisées et répondre aux questions des utilisateurs.
 
 - **Bibliothèque d'exercices**: Une vaste bibliothèque d'exercices est disponible, avec des instructions détaillées, des vidéos et des conseils pour chaque mouvement. Les utilisateurs peuvent rechercher des exercices spécifiques, les ajouter à leurs routines d'entraînement et les marquer comme favoris.
 
@@ -16,7 +20,7 @@ Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de sal
 
 ## Installation
 
-Pour installer l'application Kremlin Biceps, suivez les étapes suivantes :
+Suivez ces étapes pour installer et exécuter l'application localement :
 
 1. Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :
 
