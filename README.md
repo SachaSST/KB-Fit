@@ -23,7 +23,7 @@ Suivez ces étapes pour installer et exécuter l'application localement :
 
 2. Assurez-vous d'avoir [Node.js](https://nodejs.org) installé. npm install
 
-3. Accédez au répertoire du projet via la ligne de commande et exécutez la commande suivante pour installer les dépendances : npm install
+3. Accédez au répertoire du projet via la ligne de commande et exécutez la commande suivante pour installer les dépendances : $npm install
 
 4. Configurez les variables d'environnement selon vos besoins.
 
