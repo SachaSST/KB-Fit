@@ -31,7 +31,7 @@ Suivez ces étapes pour installer et exécuter l'application localement :
 
 5. Exécutez la commande suivante pour démarrer l'application : `npm start`
 
-6. Accédez à l'application en ouvrant votre navigateur et en visitant l'URL suivante : http://localhost:3000
+6. Accédez à l'application en ouvrant votre navigateur et en visitant l'URL suivante : `http://localhost:3000`
 
 
 > # Liste des tâches
