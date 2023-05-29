@@ -34,33 +34,26 @@ Suivez ces étapes pour installer et exécuter l'application localement :
 
 # Liste des tâches
 
-- [x] Terminer la configuration initiale du projet
-- [ ] Mettre en place l'architecture du dossier
-- [ ] Créer la page d'accueil
-- [ ] Implémenter la fonctionnalité de connexion utilisateur
-- [ ] Ajouter des tests unitaires
-- [ ] Intégrer la bibliothèque XYZ pour les graphiques
-- [ ] Mettre à jour la documentation
-- [ ] Préparer la version 1.0.0 pour la publication
+- [x] Terminer la configuration initiale du projet J1
+- [x] Mettre en place l'architecture du dossier J2
+- [x] Créer la page d'accueil J3
+- [x] Implémenter la fonctionnalité de connexion utilisateur J4
+- [x] ajout de la page nutririon avec chefs j5
+- [x] graphique evolution utilisateur ( update impossible d'avoir acces a healthkit donc faux graphique ) j6
+- [x] animation + page profil et fausse page challenge J7
+- [x] calcul d'imc + redirection de page vers nutrition J8
 
 ## Sous-tâches
 
 - [ ] Page d'accueil
-  - [ ] Ajouter un carrousel
+  - [x] Ajouter un carrousel
   - [ ] Afficher les derniers articles du blog
 - [ ] Fonctionnalité de connexion utilisateur
   - [x] Créer la page de connexion
   - [ ] Implémenter l'authentification avec Firebase
-  - [ ] Gérer les erreurs de connexion
+  - [x] Gérer les erreurs de connexion
 
-## Priorités
 
-1. Mettre à jour la documentation
-2. Mettre en place l'architecture du dossier
-3. Ajouter des tests unitaires
-4. Intégrer la bibliothèque XYZ pour les graphiques
-5. Créer la page d'accueil
-6. Implémenter la fonctionnalité de connexion utilisateur
 
 
 
