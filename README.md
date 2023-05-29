@@ -1,8 +1,8 @@
-# Kremlin Biceps - Application de salle de sport
+> # Kremlin Biceps - Application de salle de sport
 
 Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de salle de sport pour les passionnés de fitness et de musculation. Cette application vise à aider les utilisateurs à atteindre leurs objectifs de remise en forme, à suivre leur progression, à accéder à des programmes d'entraînement personnalisés, à gérer leur nutrition, à interagir avec des coachs et à rejoindre une communauté de passionnés.
 
-## Fonctionnalités principales
+> ## Fonctionnalités principales
 
 - **Suivi de progression**: Les utilisateurs peuvent enregistrer leurs séances d'entraînement, suivre leur progression physique, leurs gains en force, leurs performances et visualiser leurs statistiques détaillées. Ils peuvent enregistrer leurs mesures corporelles, leur poids, leur pourcentage de graisse corporelle, etc.
 
@@ -15,7 +15,7 @@ Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de sal
 - **Bibliothèque d'exercices**: Une vaste bibliothèque d'exercices est disponible, avec des instructions détaillées, des vidéos et des conseils pour chaque mouvement. Les utilisateurs peuvent rechercher des exercices spécifiques, les ajouter à leurs routines d'entraînement et les marquer comme favoris.
 
 
-## Installation
+> ## Installation
 
 Suivez ces étapes pour installer et exécuter l'application localement :
 
@@ -34,7 +34,7 @@ Suivez ces étapes pour installer et exécuter l'application localement :
 6. Accédez à l'application en ouvrant votre navigateur et en visitant l'URL suivante : http://localhost:3000
 
 
-# Liste des tâches
+> # Liste des tâches
 
 - [x] Terminer la configuration initiale du projet J1
 - [x] Mettre en place l'architecture du dossier J2
@@ -45,15 +45,15 @@ Suivez ces étapes pour installer et exécuter l'application localement :
 - [x] animation + page profil et fausse page challenge J7
 - [x] calcul d'imc + redirection de page vers nutrition J8
 
-## Sous-tâches
+> ## Sous-tâches
 
-> [ ] Page d'accueil
-> [x] Ajouter un carrousel
-> [ ] Afficher les derniers articles du blog
-> [ ] Fonctionnalité de connexion utilisateur
-> [x] Créer la page de connexion
-> [ ] Implémenter l'authentification avec Firebase
-> [x] Gérer les erreurs de connexion
+- [ ] Page d'accueil
+- [x] Ajouter un carrousel
+- [ ] Afficher les derniers articles du blog
+- [ ] Fonctionnalité de connexion utilisateur
+- [x] Créer la page de connexion
+- [ ] Implémenter l'authentification avec Firebase
+- [x] Gérer les erreurs de connexion
 
 
 
