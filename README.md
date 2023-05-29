@@ -14,9 +14,6 @@ Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de sal
 
 - **Bibliothèque d'exercices**: Une vaste bibliothèque d'exercices est disponible, avec des instructions détaillées, des vidéos et des conseils pour chaque mouvement. Les utilisateurs peuvent rechercher des exercices spécifiques, les ajouter à leurs routines d'entraînement et les marquer comme favoris.
 
-- **Planification des séances d'entraînement**: Les utilisateurs peuvent créer et planifier leurs propres séances d'entraînement, en choisissant parmi une variété d'exercices et en définissant le nombre de séries, les répétitions et le poids utilisé.
-
-- **Communauté**: Les utilisateurs peuvent interagir avec d'autres passionnés de fitness à travers la communauté intégrée. Ils peuvent partager leurs réalisations, poser des questions, discuter des dernières tendances et obtenir des conseils de la part de personnes partageant les mêmes intérêts.
 
 ## Installation
 
