@@ -32,3 +32,35 @@ Suivez ces étapes pour installer et exécuter l'application localement :
 6. Accédez à l'application en ouvrant votre navigateur et en visitant l'URL suivante : http://localhost:3000
 
 
+# Liste des tâches
+
+- [x] Terminer la configuration initiale du projet
+- [ ] Mettre en place l'architecture du dossier
+- [ ] Créer la page d'accueil
+- [ ] Implémenter la fonctionnalité de connexion utilisateur
+- [ ] Ajouter des tests unitaires
+- [ ] Intégrer la bibliothèque XYZ pour les graphiques
+- [ ] Mettre à jour la documentation
+- [ ] Préparer la version 1.0.0 pour la publication
+
+## Sous-tâches
+
+- [ ] Page d'accueil
+  - [ ] Ajouter un carrousel
+  - [ ] Afficher les derniers articles du blog
+- [ ] Fonctionnalité de connexion utilisateur
+  - [x] Créer la page de connexion
+  - [ ] Implémenter l'authentification avec Firebase
+  - [ ] Gérer les erreurs de connexion
+
+## Priorités
+
+1. Mettre à jour la documentation
+2. Mettre en place l'architecture du dossier
+3. Ajouter des tests unitaires
+4. Intégrer la bibliothèque XYZ pour les graphiques
+5. Créer la page d'accueil
+6. Implémenter la fonctionnalité de connexion utilisateur
+
+
+
