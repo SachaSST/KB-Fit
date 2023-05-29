@@ -8,7 +8,7 @@ Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de sal
 
 - **Nutrition**: L'application propose des fonctionnalités de suivi nutritionnel, permettant aux utilisateurs de suivre leur apport calorique, leur consommation de macronutriments (protéines, glucides, lipides) et de consulter des recommandations diététiques personnalisées en fonction de leurs objectifs.
 
-- **Entraînements**: L'application offre une variété de programmes d'entraînement personnalisés adaptés aux objectifs individuels des utilisateurs. Ces programmes peuvent inclure des séances d'entraînement spécifiques pour différents groupes musculaires, des routines cardiovasculaires, des séances de HIIT (Entraînement par Intervalles à Haute Intensité) et des séances de récupération.
+- **Entraînements**: L'application offre une variété de programmes d'entraînement personnalisés adaptés aux objectifs individuels des utilisateurs. Ces programmes peuvent inclure des séances d'entraînement spécifiques pour différents groupes musculaires.
 
 - **Coachs**: Les utilisateurs ont accès à des informations et des conseils d'experts grâce à des coachs certifiés présents dans l'application. Ils peuvent obtenir des recommandations sur les programmes d'entraînement, la nutrition, les techniques d'exercice, les routines de récupération, etc. Les coachs peuvent également fournir des rétroactions personnalisées et répondre aux questions des utilisateurs.
 
