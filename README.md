@@ -47,13 +47,13 @@ Suivez ces étapes pour installer et exécuter l'application localement :
 
 ## Sous-tâches
 
-- [ ] Page d'accueil
-- [x] Ajouter un carrousel
-- [ ] Afficher les derniers articles du blog
-- [ ] Fonctionnalité de connexion utilisateur
-- [x] Créer la page de connexion
-- [ ] Implémenter l'authentification avec Firebase
-- [x] Gérer les erreurs de connexion
+> [ ] Page d'accueil
+> [x] Ajouter un carrousel
+> [ ] Afficher les derniers articles du blog
+> [ ] Fonctionnalité de connexion utilisateur
+> [x] Créer la page de connexion
+> [ ] Implémenter l'authentification avec Firebase
+> [x] Gérer les erreurs de connexion
 
 
 
