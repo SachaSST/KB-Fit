@@ -54,6 +54,7 @@ Suivez ces étapes pour installer et exécuter l'application localement :
 - [x] Créer la page de connexion
 - [ ] Implémenter l'authentification avec Firebase
 - [x] Gérer les erreurs de connexion
+- [ ] crée un onglet communauté 
 
 
 
