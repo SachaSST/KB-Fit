@@ -1,6 +1,6 @@
 # Kremlin Biceps - Application de salle de sport
 
-Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de salle de sport pour les passionnés de fitness et de musculation. Cette application vise à aider les utilisateurs à atteindre leurs objectifs de remise en forme, à suivre leur progression, à accéder à des programmes d'entraînement personnalisés, à gérer leur nutrition, à interagir avec des coachs et à rejoindre une communauté de passionnés.
+Bienvenue dans le référentiel GitHub de Kremlin Biceps, une application de salle de sport pour les passionnés de fitness et de musculation. Cette application vise à aider les utilisateurs à atteindre leurs objectifs de remise en forme, à suivre leur progression, à accéder à des programmes d'entraînement personnalisés, à gérer leur nutrition et à interagir avec des coachs 
 
 > ## Fonctionnalités principales
 
